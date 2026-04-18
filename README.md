@@ -7,7 +7,9 @@ The goal of the project is to explore electricity usage trends across states and
 
 LIVE URL - https://electricity-consumption-0ldd.onrender.com/
 
-Video Demonstration - https://drive.google.com/file/d/157MzOJfnVMy8lKFfrW3L8xYH-RRj1lqb/view?usp=sharing
+Video Demonstration - https://drive.google.com/file/d/1a8wNUgEyFx9pPMjGowHg2MGbHx3-Gj7A/view?usp=sharing
+
+Document Link - https://docs.google.com/document/d/1VnHUsdbzdULOydEuUtT4zzBrZmBxtIQjx0scEmi3Df4/edit?usp=sharing
 
 Project Overview The analysis focuses on understanding electricity consumption trends across Indian states and presenting insights using interactive dashboards and a data story.
 
